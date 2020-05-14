@@ -1,0 +1,5 @@
+spring:
+  redis:
+    database: 0       # 默认值
+    host: localhost   # 默认值
+    port: 6379        # 默认值
